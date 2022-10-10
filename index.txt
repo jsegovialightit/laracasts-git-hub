@@ -1,3 +1,3 @@
 hello world
-amend try 
+amend try 3 
 a change to practice the conflict resolve
